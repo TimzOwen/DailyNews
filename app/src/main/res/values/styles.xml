@@ -1,5 +1,8 @@
 <resources>
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca01c004325b3021af1c1d73e2ab22ab26efdc55
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -8,4 +11,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+<<<<<<< HEAD
 </resources>
+=======
+</resources>
+>>>>>>> ca01c004325b3021af1c1d73e2ab22ab26efdc55

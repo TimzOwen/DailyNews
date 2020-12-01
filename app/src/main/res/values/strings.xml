@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MVVMNewsApp</string>
 </resources>
+=======
+    <string name="app_name">DailyNews</string>
+</resources>
+>>>>>>> ca01c004325b3021af1c1d73e2ab22ab26efdc55

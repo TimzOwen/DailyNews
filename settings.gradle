@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 rootProject.name='MVVMNewsApp'
 include ':app'
+=======
+include ':app'
+rootProject.name = "DailyNews"
+>>>>>>> ca01c004325b3021af1c1d73e2ab22ab26efdc55

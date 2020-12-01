@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.androiddevs.mvvmnewsapp">
+=======
+    package="com.owen.dailynews">
+>>>>>>> ca01c004325b3021af1c1d73e2ab22ab26efdc55
 
     <application
         android:allowBackup="true"
